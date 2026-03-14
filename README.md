@@ -34,15 +34,6 @@ Knex
 ↓
 MySQL
 
-Como executar o projeto
-
-Backend
-
-cd services/task-service  
-npm install  
-node server.js  
-
-Frontend
 
 cd frontend  
 npm install  
